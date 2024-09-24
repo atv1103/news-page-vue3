@@ -1,0 +1,12 @@
+@import "./base.css";
+
+:root {
+  --background: #fff;
+  --text: #000;
+  --first-btn-color: #378b60;
+  --first-btn-hover-color: #48a877;
+  --second-btn-color: #ff00b8;
+  --second-btn-hover-color: #da1fa5;
+  --third-btn-color: #fb9600;
+  --third-btn-hover-color: #e49724;
+}
