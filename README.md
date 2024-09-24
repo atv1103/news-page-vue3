@@ -1,3 +1,5 @@
+# https://atv1103.github.io/news-page-vue3/
+
 Реализовать вёрстку для страницы новостей.
 Фреймворк vue2/vue3, sass/scss/css, javascript/typescript.
 
