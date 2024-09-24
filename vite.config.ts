@@ -5,6 +5,7 @@ import path from 'path'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [vue()],
+  base: 'https://atv1103.github.io/news-page-vue3/',
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
